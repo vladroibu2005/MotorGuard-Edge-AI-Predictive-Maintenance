@@ -244,3 +244,54 @@ Demonstrate healthy operation
 Introduce controlled degradation
 Detect the resulting anomaly
 Send a maintenance recommendation over BLE
+
+
+Current Status
+
+Project status: Planned / In Development
+
+The current repository contains the initial project concept, architecture, and development plan.
+
+The hardware implementation, sensor selection, exact pin assignments, machine learning model, and final Bluetooth implementation will be completed after the nRF54LM20 DK and final hardware components are available.
+
+Future Improvements
+
+Possible future improvements include:
+
+Additional motor current monitoring
+Multi-sensor fusion
+Multiple degradation types
+More advanced anomaly detection
+Long-term health trend analysis
+Improved power optimization
+Custom enclosure
+Mobile monitoring interface
+Multiple monitored motors
+Remote fleet monitoring
+Sustainability Impact
+
+MotorGuard is designed around the principle of maintaining equipment before failure rather than replacing it after failure.
+
+By detecting abnormal behavior at an early stage, predictive maintenance can potentially:
+
+Extend equipment lifetime
+Reduce unnecessary component replacement
+Reduce unexpected downtime
+Reduce material waste
+Improve maintenance efficiency
+Reduce the resources required for premature replacement
+
+The project will evaluate these concepts through a controlled prototype demonstration.
+
+Hackster Competition
+
+This project is being developed for the Sustain the System with Nordic Semiconductor competition.
+
+The project aims to explore:
+
+Predictive maintenance
+Edge AI
+Low-power embedded systems
+Bluetooth Low Energy
+Sensor-based equipment monitoring
+Sustainable maintenance strategies
